@@ -1,0 +1,564 @@
+[
+  {
+    "iata": "YYZ",
+    "lon": "-79.61146",
+    "iso": "CA",
+    "status": 1,
+    "name": "Lester B. Pearson International Airport",
+    "continent": "NA",
+    "type": "airport",
+    "lat": "43.681583",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "LHR"
+    ]
+  },
+  {
+    "iata": "FRA",
+    "lon": "8.570773",
+    "iso": "DE",
+    "status": 1,
+    "name": "Frankfurt am Main International Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "50.050735",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "LHR", "CDG", "AMS", "MUC", "IST",
+      "ZRH", "VIE", "FCO", "ATH", "BCN",
+      "JFK", "MAD", "DUB", "CPH", "SFO",
+      "PEK", "DXB", "DEL", "BKK", "HKG"
+    ]
+  },
+  {
+    "iata": "MUC",
+    "lon": "11.790143",
+    "iso": "DE",
+    "status": 1,
+    "name": "Munich International Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "48.353004",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "AMS", "CDG", "FRA", "LHR", "ZRH",
+      "VIE", "FCO", "BCN", "MAD", "IST",
+      "ATH", "DUB", "JFK", "CPH", "SFO",
+      "PEK", "DXB", "DEL", "BKK", "HKG"
+    ]
+  },
+  {
+    "iata": "MAN",
+    "lon": "-2.273354",
+    "iso": "GB",
+    "status": 1,
+    "name": "Manchester Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "53.362907",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "AMS", "CDG", "FRA", "LHR", "ZRH",
+      "VIE", "FCO", "BCN", "MAD", "IST",
+      "ATH", "DUB", "JFK", "CPH", "SFO",
+      "PEK", "DXB", "DEL", "BKK", "HKG"
+    ]
+  },
+  {
+    "iata": "LHR",
+    "lon": "-0.453566",
+    "iso": "GB",
+    "status": 1,
+    "name": "London Heathrow Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "51.469604",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "AMS", "CDG", "FRA", "MUC", "IST",
+      "ZRH", "VIE", "FCO", "ATH", "BCN",
+      "JFK", "MAD", "DUB", "CPH", "SFO",
+      "PEK", "DXB", "DEL", "BKK", "HKG"
+    ]
+  },
+  {
+    "iata": "LGW",
+    "lon": "-0.161863",
+    "iso": "GB",
+    "status": 1,
+    "name": "London Gatwick Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "51.156807",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "AMS", "CDG", "FRA", "MUC", "IST",
+      "ZRH", "VIE", "FCO", "ATH", "BCN",
+      "JFK", "MAD", "DUB", "CPH", "SFO",
+      "PEK", "DXB", "DEL", "BKK", "HKG"
+    ]
+  },
+  {
+    "iata": "LCY",
+    "lon": "0.05",
+    "iso": "GB",
+    "status": 1,
+    "name": "London City Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "51.5",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "AMS", "DUB", "CDG", "FRA", "ZRH",
+      "MUC", "LUX", "SXF", "HAM", "RTM",
+      "BHD", "GVA", "IBZ", "LIN", "MAD",
+      "AGP", "SNN", "ORK", "JER", "VIE",
+      "NCE", "GIB", "EDI", "GCI", "STN",
+      "BRS", "ABZ", "LCY", "LCY", "LCY",
+      "LCY", "LCY", "LCY", "LCY", "LCY"
+    ]
+  },
+  {
+    "iata": "LTN",
+    "lon": "-0.376232",
+    "iso": "GB",
+    "status": 1,
+    "name": "London Luton Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "51.87977",
+    "size": "large",
+    "destinations": [
+      "AMS", "CPH", "ARN", "LGW", "LTN",
+      "STN", "LTN", "LTN", "LTN", "LTN"
+    ]
+  },
+  {
+    "iata": "AMS",
+    "lon": "4.763385",
+    "iso": "NL",
+    "status": 1,
+    "name": "Amsterdam Airport Schiphol",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "52.30907",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "LTN", "CPH", "ARN", "LGW", "LTN",
+      "STN", "LTN", "LTN", "LTN", "LTN"
+    ]
+  },
+  {
+    "iata": "CPH",
+    "lon": "12.647601",
+    "iso": "DK",
+    "status": 1,
+    "name": "Copenhagen Kastrup Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "55.62905",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "LTN", "AMS", "ARN", "LGW", "STN"
+    ]
+  },
+  {
+    "iata": "ARN",
+    "lon": "17.930365",
+    "iso": "SE",
+    "status": 1,
+    "name": "Stockholm-Arlanda Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "59.64982",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "LTN", "AMS", "CPH", "LGW", "LTN",
+      "STN", "LTN", "LTN", "LTN", "LTN"
+    ]
+  },
+  {
+    "iata": "ATL",
+    "lon": "-84.44403",
+    "iso": "US",
+    "status": 1,
+    "name": "Hartsfield Jackson Atlanta International Airport",
+    "continent": "NA",
+    "type": "airport",
+    "lat": "33.640068",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "CLT", "DEN", "DFW", "EWR", "IAD"
+    ]
+  },
+  {
+    "iata": "CLT",
+    "lon": "-80.93584",
+    "iso": "US",
+    "status": 1,
+    "name": "Charlotte Douglas International Airport",
+    "continent": "NA",
+    "type": "airport",
+    "lat": "35.219166",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "ATL", "DEN", "DFW", "EWR", "IAD"
+    ]
+  },
+  {
+    "iata": "DEN",
+    "lon": "-104.672844",
+    "iso": "US",
+    "status": 1,
+    "name": "Denver International Airport",
+    "continent": "NA",
+    "type": "airport",
+    "lat": "39.84939",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "ATL", "CLT", "DFW", "EWR", "IAD"
+    ]
+  },
+  {
+    "iata": "DFW",
+    "lon": "-97.036125",
+    "iso": "US",
+    "status": 1,
+    "name": "Dallas Fort Worth International Airport",
+    "continent": "NA",
+    "type": "airport",
+    "lat": "32.89746",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "ATL", "CLT", "DEN", "EWR", "IAD"
+    ]
+  },
+  {
+    "iata": "EWR",
+    "lon": "-74.17876",
+    "iso": "US",
+    "status": 1,
+    "name": "Newark Liberty International Airport",
+    "continent": "NA",
+    "type": "airport",
+    "lat": "40.68907",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "ATL", "CLT", "DEN", "DFW", "IAD"
+    ]
+  },
+  {
+    "iata": "IAD",
+    "lon": "-77.44774",
+    "iso": "US",
+    "status": 1,
+    "name": "Washington Dulles International Airport",
+    "continent": "NA",
+    "type": "airport",
+    "lat": "38.95315",
+    "size": "large",
+    "major": false,
+    "destinations": [
+      "ATL", "CLT", "DEN", "DFW", "EWR"
+    ]
+  },
+  {
+    "iata": "ZRH",
+    "lon": "8.561746",
+    "iso": "CH",
+    "status": 1,
+    "name": "Zurich Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "47.450603",
+    "size": "large",
+    "major": false,
+    "destinations": ["IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "IST",
+    "lon": "28.815277",
+    "iso": "TR",
+    "status": 1,
+    "name": "Istanbul Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "40.976665",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "MEX",
+    "lon": "-99.07278",
+    "iso": "MX",
+    "status": 1,
+    "name": "Licenciado Benito Juarez International Airport",
+    "continent": "NA",
+    "type": "airport",
+    "lat": "19.435278",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "DXB",
+    "lon": "55.352917",
+    "iso": "AE",
+    "status": 1,
+    "name": "Dubai International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "25.248665",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "DUB",
+    "lon": "-6.24357",
+    "iso": "IE",
+    "status": 1,
+    "name": "Dublin Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "53.42728",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "KIX",
+    "lon": "135.24397",
+    "iso": "JP",
+    "status": 1,
+    "name": "Kansai International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "34.43533",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "HND",
+    "lon": "139.78453",
+    "iso": "JP",
+    "status": 1,
+    "name": "Tokyo International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "35.54907",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "ICN",
+    "lon": "126.45123",
+    "iso": "KR",
+    "status": 1,
+    "name": "Incheon International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "37.448524",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "MNL",
+    "lon": "121.01251",
+    "iso": "PH",
+    "status": 1,
+    "name": "Ninoy Aquino International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "14.509602",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "DME",
+    "lon": "37.899494",
+    "iso": "RU",
+    "status": 1,
+    "name": "Domodedovo International Airport",
+    "continent": "EU",
+    "type": "airport",
+    "lat": "55.414566",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "BOM",
+    "lon": "72.87497",
+    "iso": "IN",
+    "status": 1,
+    "name": "Chhatrapati Shivaji International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "19.095509",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "HKG",
+    "lon": "113.93649",
+    "iso": "HK",
+    "status": 1,
+    "name": "Chek Lap Kok International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "22.315248",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "DEL",
+    "lon": "77.10079",
+    "iso": "IN",
+    "status": 1,
+    "name": "Indira Gandhi International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "28.556555",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "BKK",
+    "lon": "100.752045",
+    "iso": "TH",
+    "status": 1,
+    "name": "Suvarnabhumi Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "13.693062",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "CGK",
+    "lon": "106.655525",
+    "iso": "ID",
+    "status": 1,
+    "name": "Soekarno-Hatta International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "-6.130643",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "KUL",
+    "lon": "101.70539",
+    "iso": "MY",
+    "status": 1,
+    "name": "Kuala Lumpur International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "2.755672",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "SIN",
+    "lon": "103.990204",
+    "iso": "SG",
+    "status": 1,
+    "name": "Singapore Changi International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "1.361173",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "MUC",
+    "iso": "DE",
+    "status": 0,
+    "name": "Munich-Reim Airport",
+    "continent": "EU",
+    "type": "closed",
+    "size": null,
+    "major": false,
+    "destinations": ["ZRH", "IST", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "SYD",
+    "lon": "151.1799",
+    "iso": "AU",
+    "status": 1,
+    "name": "Sydney Kingsford Smith International Airport",
+    "continent": "OC",
+    "type": "airport",
+    "lat": "-33.932922",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "PEK", "CAN", "PVG"]
+  },
+  {
+    "iata": "PEK",
+    "lon": "116.5871",
+    "iso": "CN",
+    "status": 1,
+    "name": "Beijing Capital International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "40.078537",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "CAN", "PVG"]
+  },
+  {
+    "iata": "CAN",
+    "lon": "113.29734",
+    "iso": "CN",
+    "status": 1,
+    "name": "Guangzhou Baiyun International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "23.387861",
+    "size": "large",
+    "major": false,
+    "destinations": ["ZRH", "IST", "MEX", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "PVG"]
+  },
+  {
+    "iata": "PVG",
+    "lon": "121.799805",
+    "iso": "CN",
+    "status": 1,
+    "name": "Shanghai Pudong International Airport",
+    "continent": "AS",
+    "type": "airport",
+    "lat": "31.151825",
+    "size": "large",
+    "major": false,
+    "destinations": ["SHE", "HKG", "DLC", "DXB", "DUB", "KIX", "HND", "ICN", "MNL", "DME", "BOM", "HKG", "DEL", "BKK", "CGK", "KUL", "SIN", "SYD", "PEK", "CAN"]
+  }
+]
